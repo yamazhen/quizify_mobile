@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">quizify_mobile</string>
+    <string name="quizify">Quizify</string>
+    <string name="upload_pdf">Upload PDF</string>
+    <string name="no_file_selected">No file selected.</string>
+    <string name="submit">Submit</string>
+    <string name="file_name">File Name</string>
+    <string name="submit_answers">Submit Answers</string>
+</resources>
